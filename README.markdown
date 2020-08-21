@@ -1,5 +1,5 @@
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
-
+sffgh
 ## Building the project
 
 The project is a simple multi-module Maven project. To build the whole project, just run `mvn install` from the root directory.
@@ -18,7 +18,7 @@ Streamline software development with Jenkins, the popular Java-based open source
 
 Ideal for developers, software architects, and project managers, Jenkins: The Definitive Guide is both a CI tutorial and a comprehensive Jenkins reference. Through its wealth of best practices and real-world tips, you'll discover how easy it is to set up a CI service with Jenkins.
 
- - Learn how to install, configure, and secure your Jenkins server
+ - Learn how to install, configure, and secure your Jenkins servervfnhn  hmnvgnrgbvhg
  - Organize and monitor general-purpose build jobs
  - Integrate automated tests to verify builds, and set up code quality reporting
  - Establish effective team notification strategies and techniques
