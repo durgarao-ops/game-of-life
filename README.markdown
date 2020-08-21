@@ -6,7 +6,7 @@ i am editing this file AGAIJ
 i am making some changes for automatic build
 vcbxkjhlxxscdc
 
-The project is a simple multi-module Maven project. To build the whole project, just run `mvn install` from the root directory.
+The project is a simple multi-module Maven project. To build the whole project, just runzzxcdc `mvn install` from the root directory.
 
 ## Running the game
 
